@@ -1,4 +1,4 @@
-# kitty-custom-terminal
+# Kitty Terminal Configuration
 
 This repository contains my custom configuration files for the [Kitty Terminal Emulator](https://sw.kovidgoyal.net/kitty/). It includes two main files:
 
