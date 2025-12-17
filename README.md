@@ -21,3 +21,4 @@ These configuration files are designed to enhance your terminal experience with:
 - **A Unique Color Scheme:**  
   The `pink-theme.conf` file defines a dark mode theme with pink accents, including a tailored palette for text, background, and selection colors.
 
+![Example Image](terminalExample.png)
